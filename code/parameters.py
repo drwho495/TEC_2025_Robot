@@ -1,2 +1,2 @@
 class Parameters:
-    ledPower = 5;
+    ledPower = 1;
